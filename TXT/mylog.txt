@@ -11,3 +11,4 @@ ZCZC W00 10   L41 Updating mylog.txt
 ZCZC W00 20   L03 Creating a local repository on my laptop and linking it to the one on Github
 ZCZC W00 20   L04 Adding index.html into the repo for the Github page
 ZCZC W00 60   L10 Reading assignment: Chapter 1, 2
+ZCZC W00 140  L10 Reading assignment: Chapter 2, 18
