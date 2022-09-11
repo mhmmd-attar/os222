@@ -19,3 +19,4 @@ ZCZC W01 100  L02 Online lecture on Thursday, 8th September
 ZCZC W01 10   L03 Added /LINKS/links.md
 ZCZC W01 90   L05 Studying basic Linux commands, sed, awk
 ZCZC W01 10   L05 Quiz Week01
+ZCZC W01 140  L31 Setting up Virtual Box
