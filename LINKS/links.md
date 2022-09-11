@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Mohammad Attar</span>
+<span style="color:orange; font-weight:bold; font-size:larger;">By Mohammad Attar</span>
 <br><br>
 <br>
 <hr>
