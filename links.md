@@ -17,10 +17,10 @@ permalink: LINKS/
 2. [SCELE](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
    Faculty's e-learning site for Operating System 22/23
 
-3. [QuickRed.ME](https://quickref.me/)<br>
+3. [QuickRef.ME](https://quickref.me/)<br>
    Cheatsheets and quick references
 
-4. [Awwesome Github](https://github.com/phillipadsmith/awesome-github#readme)<br>
+4. [Awesome Github](https://github.com/phillipadsmith/awesome-github#readme)<br>
    Learning resources about Github
 
 5. [Awesome Shells](https://github.com/alebcay/awesome-shell#readme)<br>
