@@ -10,18 +10,36 @@ ZCZC W00 100  L02 Online lecture on Thursday, 1st September
 ZCZC W00 10   L41 Updating mylog.txt
 ZCZC W00 20   L03 Creating a local repository on my laptop and linking it to the one on Github
 ZCZC W00 20   L04 Adding index.html into the repo for the Github page
-ZCZC W00 60   L10 Reading assignment: Chapter 1, 2
-ZCZC W00 140  L10 Reading assignment: Chapter 2, 18
-ZCZC W00 10   L05 Quiz
-ZCZC W01 15   L61 Downloaded and installed the VirtualBox, the extension pack, PUTTY, and WinSCP
-ZCZC W01 100  L02 Online lecture on Tuesday, 6th September
-ZCZC W01 100  L02 Online lecture on Thursday, 8th September
-ZCZC W01 10   L03 Added /LINKS/links.md
-ZCZC W01 90   L05 Studying basic Linux commands, sed, awk
-ZCZC W01 10   L05 Quiz Week01
-ZCZC W01 140  L31 Setting up Virtual Box
-ZCZC W01 120  L31 Setting up Virtual Box
-ZCZC W01 10   L11 Completed Assignment #1 of W01
-ZCZC W01 30   L04 Deleting index.html, creating index.md and links.md
-ZCZC W01 20   L11 Finishing Assignment #3 of W01
-ZCZC W01 15   L11 Completed Assignment #4 of W01
+ZCZC W00 60  L10 Reading assignment: Chapter 1, 2
+ZCZC W00 140 L10 Reading assignment: Chapter 2, 18
+ZCZC W00 10  L05 Quiz
+ZCZC W01 15  L61 Downloaded and installed the VirtualBox, the extension pack, PUTTY, and WinSCP
+ZCZC W01 100 L02 Online lecture on Tuesday, 6th September
+ZCZC W01 100 L02 Online lecture on Thursday, 8th September
+ZCZC W01 10  L03 Added /LINKS/links.md
+ZCZC W01 90  L05 Studying basic Linux commands, sed, awk
+ZCZC W01 10  L05 Quiz Week01
+ZCZC W01 140 L31 Setting up Virtual Box
+ZCZC W01 120 L31 Setting up Virtual Box
+ZCZC W01 10  L11 Completed Assignment #1 of W01
+ZCZC W01 30  L04 Deleting index.html, creating index.md and links.md
+ZCZC W01 20  L11 Finishing Assignment #3 of W01
+ZCZC W01 15  L11 Completed Assignment #4 of W01
+ZCZC W02 100 L02 Online lecture on Tuesday, 13th September
+ZCZC W02 100 L02 Online lecture on Thursday, 15th September
+ZCZC W02 60  L05 Reading Assignment: Chapter 16, 17
+ZCZC W02 40  L05 Rereading chapter 16 and 17 and Quiz W02
+ZCZC W02 15  L26 Generating GnuPG pubkey
+ZCZC W02 5   L01 Posting my pubkey on SCeLe
+ZCZC W02 15  L26 Importing and signing the OS' public key
+ZCZC W02 10  L03 Exporting my public key, add, commit, and push mypubkey.txt. Completed Assignment #2 
+ZCZC W02 1   L26 Decrypting WEEK02.tar.bz2.asc
+ZCZC W02 1   L22 Extracting TARBALL
+ZCZC W02 3   L23 Checking and running scripts. Completed Assignment #5
+ZCZC W02 10  L03 Created myrank.txt, updated myupdate.txt
+ZCZC W02 20  L24 Copying and running myscript.sh
+ZCZC W02 20  L06 GSGS on changing username in VirtualBox Debian
+ZCZC W02 10  L31 Changing username and hostname to match GitHub account
+ZCZC W02 15  L64 Helping a friend on the same issue
+ZCZC W02 15  L06 Rereading vimtutor
+ZCZC W02 30  L31 Updating mylog.txt
