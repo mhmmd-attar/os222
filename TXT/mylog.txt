@@ -43,3 +43,5 @@ ZCZC W02 10  L31 Changing username and hostname to match GitHub account
 ZCZC W02 15  L64 Helping a friend on the same issue
 ZCZC W02 15  L06 Rereading vimtutor
 ZCZC W02 30  L31 Updating mylog.txt
+ZCZC W02 15  L43 Reviewing 10 links.md, updating myrank.txt
+ZCZC W02 5   L41 Updating mylog.txt
