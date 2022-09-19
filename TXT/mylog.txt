@@ -47,3 +47,5 @@ ZCZC W02 15  L43 Reviewing 10 links.md, updating myrank.txt
 ZCZC W02 3   L41 Updating mylog.txt
 ZCZC W02 5   L03 Rerunning myscript.sh, 4 git mantras
 ZCZC W02 2   L41 Updating mylog.txt
+ZCZC W02 2   L23 Rerunning 00-install-to-bin.sh and 01-Version-Check.sh
+ZCZC W02 3   L03 Rerunning myscript.sh, push to GitHub 
