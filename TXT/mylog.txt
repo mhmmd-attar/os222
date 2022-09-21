@@ -56,3 +56,10 @@ ZCZC W03 10  L03 Updating myupdate.txt and mylog.txt
 ZCZC W03 20  L43 Peer-review and updating myrank.txt
 ZCZC W03 10  L03 Updating links.md
 ZCZC W03 5   L41 Updating mylog.txt
+ZCZC W03 30  L26 Generate a new public gpg key and output it into my repository
+ZCZC W03 10  L03 Updating my public key in myscript.sh and add, commit, push to GitHub
+ZCZC W03 20  L06 GSGS how to change user's home directory in Debian
+ZCZC W03 20  L31 Changing my home directory
+ZCZC W03 10  L64 Helping a friend to change their home directory and group name
+ZCZC W03 20  L13 Redoing parts of W03 assignments
+ZCZC W03 20  L03 Updating mylog.txt, rerunning myscript.sh, add, commit, push
