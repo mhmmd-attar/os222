@@ -48,4 +48,7 @@ ZCZC W02 3   L41 Updating mylog.txt
 ZCZC W02 5   L03 Rerunning myscript.sh, 4 git mantras
 ZCZC W02 2   L41 Updating mylog.txt
 ZCZC W02 2   L23 Rerunning 00-install-to-bin.sh and 01-Version-Check.sh
-ZCZC W02 3   L03 Rerunning myscript.sh, push to GitHub 
+ZCZC W02 3   L03 Rerunning myscript.sh, push to GitHub
+ZCZC W03 20  L31 Creating, formatting, mounting, changing ownership of a new disk
+ZCZC W03 10  L23 Downloading and running WEEK03 scripts
+ZCZC W03 10  L03 Updating myupdate.txt and mylog.txt
