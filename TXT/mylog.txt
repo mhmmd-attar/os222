@@ -75,3 +75,9 @@ ZCZC W04 5   L40 Updating myupdate.txt
 ZCZC W04 25  L41 Updating mylog.txt
 ZCZC W04 5   L23 Running myscript.sh for Week04
 ZCZC W04 5   L03 git add, commit, and push
+ZCZC W04 5   L27 Trying to access mhmmd-attar@os1.cs.ui.ac.id
+ZCZC W04 5   L31 Running dpkg-reconfigure dash in root to fix "/bin/sh does not point to bash"
+ZCZC W04 5   L23 Rerunning WEEK04 scripts
+ZCZC W04 10  L41 Updating mylog.txt
+ZCZC W04 5   L23 Reruning myscript.sh
+ZCZC W04 5   L03 git add, commit, push
