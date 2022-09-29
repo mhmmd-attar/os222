@@ -79,5 +79,8 @@ ZCZC W04 5   L27 Trying to access mhmmd-attar@os1.cs.ui.ac.id
 ZCZC W04 5   L31 Running dpkg-reconfigure dash in root to fix "/bin/sh does not point to bash"
 ZCZC W04 5   L23 Rerunning WEEK04 scripts
 ZCZC W04 10  L41 Updating mylog.txt
-ZCZC W04 5   L23 Reruning myscript.sh
+ZCZC W04 5   L23 Rerunning myscript.sh
 ZCZC W04 5   L03 git add, commit, push
+ZCZC W04 15  L06 GSGS on how to do the Pop Quiz
+ZCZC W04 10  L64 Helping a friend fix the "bin/sh does not point to bash" error
+ZCZC W04 15  L43 Peer-reviewing LINKS and updating myrank.txt
