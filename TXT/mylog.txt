@@ -84,3 +84,13 @@ ZCZC W04 5   L03 git add, commit, push
 ZCZC W04 15  L06 GSGS on how to do the Pop Quiz
 ZCZC W04 10  L64 Helping a friend fix the "bin/sh does not point to bash" error
 ZCZC W04 15  L43 Peer-reviewing LINKS and updating myrank.txt
+ZCZC W04 5   L27 Accessing os1.cs.ui.ac.id
+ZCZC W04 5   L01 Posting the result to SCeLE for the second W04 PopQuiz 
+ZCZC W04 15  L06 GSGS on how to create a Makefile
+ZCZC W04 30  L25 Creating the directory, C file, and Makefile for the first W04 PopQuiz
+ZCZC W04 10  L22 Compressing the directory into a tarball
+ZCZC W04 5   L26 Encypting the tarball
+ZCZC W04 15  L21 Testing the encryption, compression, and running make and the created C executable
+ZCZC W04 5   L01 Posting the content of the encypted tarball to SCeLE for the first W04 PopQuiz
+ZCZC W04 10  L41 Updating mylog.txt
+ZCZC W04 5   L03 add, commit, and push to GitHub
