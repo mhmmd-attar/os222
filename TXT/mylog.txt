@@ -81,6 +81,7 @@ ZCZC W04 5   L23 Rerunning WEEK04 scripts
 ZCZC W04 10  L41 Updating mylog.txt
 ZCZC W04 5   L23 Rerunning myscript.sh
 ZCZC W04 5   L03 git add, commit, push
+ZCZC W04 20  L05 Preparing and doing the W04 Quiz2
 ZCZC W04 15  L06 GSGS on how to do the Pop Quiz
 ZCZC W04 10  L64 Helping a friend fix the "bin/sh does not point to bash" error
 ZCZC W04 15  L43 Peer-reviewing LINKS and updating myrank.txt
@@ -96,3 +97,8 @@ ZCZC W04 10  L41 Updating mylog.txt
 ZCZC W04 20  L64 Helping a friend to do the Pop Quiz
 ZCZC W04 5   L44 Rerunning myscript.sh
 ZCZC W04 5   L03 git add, commit, and push
+ZCZC W04 30  L05 Preparing and doing the W04 Quiz
+ZCZC W04 40  L64 Helping a friend to do the W04 PopQuiz
+ZCZC W04 5   L41 Updaing mylog.txt
+ZCZC W04 5   L44 Rerunning myscript.sh
+ZCZC W04 5   L03 add, commit, push to GitHub
