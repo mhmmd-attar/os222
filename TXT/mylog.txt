@@ -99,6 +99,18 @@ ZCZC W04 5   L44 Rerunning myscript.sh
 ZCZC W04 5   L03 git add, commit, and push
 ZCZC W04 30  L05 Preparing and doing the W04 Quiz
 ZCZC W04 40  L64 Helping a friend to do the W04 PopQuiz
-ZCZC W04 5   L41 Updaing mylog.txt
+ZCZC W04 5   L41 Updating mylog.txt
 ZCZC W04 5   L44 Rerunning myscript.sh
 ZCZC W04 5   L03 add, commit, push to GitHub
+ZCZC W05 100 L02 Online lecture on Tuesday, 4th October
+ZCZC W05 30  L31 Trying how low memory is needed to run debian guest
+ZCZC W05 5   L26 Decrypting W05 tarball
+ZCZC W05 5   L22 Extracting the tarball
+ZCZC W05 10  L23 Running 00 and 01 scripts
+ZCZC W05 5   L23 Running 05-WEEK05a.sh
+ZCZC W05 30  L25 Modifying mymemory2.c and testing mymemory2
+ZCZC W05 5   L23 Running 05-WEEK05b.sh
+ZCZC W05 5   L40 Updating myupdate.txt
+ZCZC W05 10  L41 Updating mylog.txt
+ZCZC W05 5   L23 Running myscript.sh
+ZCZC W05 5   L03 git add, commit, push
