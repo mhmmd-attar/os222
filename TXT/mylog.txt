@@ -3,114 +3,116 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 100 L02 First lecture on Tuesday, 30th August
-ZCZC W00 5   L10 Filling in Course Registration Gform
-ZCZC W00 5   L03 Creating new repository for OS
-ZCZC W00 5   L41 Creating mylog.txt
+ZCZC W00 5 L10 Filling in Course Registration Gform
+ZCZC W00 5 L03 Creating new repository for OS
+ZCZC W00 5 L41 Creating mylog.txt
 ZCZC W00 100 L02 Online lecture on Thursday, 1st September
-ZCZC W00 10  L41 Updating mylog.txt
-ZCZC W00 20  L03 Creating a local repository on my laptop and linking it to the one on Github
-ZCZC W00 20  L04 Adding index.html into the repo for the Github page
-ZCZC W00 60  L10 Reading assignment: Chapter 1, 2
+ZCZC W00 10 L41 Updating mylog.txt
+ZCZC W00 20 L03 Creating a local repository on my laptop and linking it to the one on Github
+ZCZC W00 20 L04 Adding index.html into the repo for the Github page
+ZCZC W00 60 L10 Reading assignment: Chapter 1, 2
 ZCZC W00 140 L10 Reading assignment: Chapter 2, 18
-ZCZC W00 10  L05 Quiz
-ZCZC W01 15  L61 Downloaded and installed the VirtualBox, the extension pack, PUTTY, and WinSCP
+ZCZC W00 10 L05 Quiz
+ZCZC W01 15 L61 Downloaded and installed the VirtualBox, the extension pack, PUTTY, and WinSCP
 ZCZC W01 100 L02 Online lecture on Tuesday, 6th September
 ZCZC W01 100 L02 Online lecture on Thursday, 8th September
-ZCZC W01 10  L03 Added /LINKS/links.md
-ZCZC W01 90  L05 Studying basic Linux commands, sed, awk
-ZCZC W01 10  L05 Quiz Week01
+ZCZC W01 10 L03 Added /LINKS/links.md
+ZCZC W01 90 L05 Studying basic Linux commands, sed, awk
+ZCZC W01 10 L05 Quiz Week01
 ZCZC W01 140 L31 Setting up Virtual Box
 ZCZC W01 120 L31 Setting up Virtual Box
-ZCZC W01 10  L11 Completed Assignment #1 of W01
-ZCZC W01 30  L04 Deleting index.html, creating index.md and links.md
-ZCZC W01 20  L11 Finishing Assignment #3 of W01
-ZCZC W01 15  L11 Completed Assignment #4 of W01
+ZCZC W01 10 L11 Completed Assignment #1 of W01
+ZCZC W01 30 L04 Deleting index.html, creating index.md and links.md
+ZCZC W01 20 L11 Finishing Assignment #3 of W01
+ZCZC W01 15 L11 Completed Assignment #4 of W01
 ZCZC W02 100 L02 Online lecture on Tuesday, 13th September
 ZCZC W02 100 L02 Online lecture on Thursday, 15th September
-ZCZC W02 60  L05 Reading Assignment: Chapter 16, 17
-ZCZC W02 40  L05 Rereading chapter 16 and 17 and Quiz W02
-ZCZC W02 15  L26 Generating GnuPG pubkey
-ZCZC W02 5   L01 Posting my pubkey on SCeLe
-ZCZC W02 15  L26 Importing and signing the OS' public key
-ZCZC W02 10  L03 Exporting my public key, add, commit, and push mypubkey.txt. Completed Assignment #2 
-ZCZC W02 1   L26 Decrypting WEEK02.tar.bz2.asc
-ZCZC W02 1   L22 Extracting TARBALL
-ZCZC W02 3   L23 Checking and running scripts. Completed Assignment #5
-ZCZC W02 10  L03 Created myrank.txt, updated myupdate.txt
-ZCZC W02 20  L24 Copying and running myscript.sh
-ZCZC W02 20  L06 GSGS on changing username in VirtualBox Debian
-ZCZC W02 10  L31 Changing username and hostname to match GitHub account
-ZCZC W02 15  L64 Helping a friend on the same issue
-ZCZC W02 15  L06 Rereading vimtutor
-ZCZC W02 30  L31 Updating mylog.txt
-ZCZC W02 15  L43 Reviewing 10 links.md, updating myrank.txt
-ZCZC W02 3   L41 Updating mylog.txt
-ZCZC W02 5   L03 Rerunning myscript.sh, 4 git mantras
-ZCZC W02 2   L41 Updating mylog.txt
-ZCZC W02 2   L23 Rerunning 00-install-to-bin.sh and 01-Version-Check.sh
-ZCZC W02 3   L03 Rerunning myscript.sh, push to GitHub
+ZCZC W02 60 L05 Reading Assignment: Chapter 16, 17
+ZCZC W02 40 L05 Rereading chapter 16 and 17 and Quiz W02
+ZCZC W02 15 L26 Generating GnuPG pubkey
+ZCZC W02 5 L01 Posting my pubkey on SCeLe
+ZCZC W02 15 L26 Importing and signing the OS' public key
+ZCZC W02 10 L03 Exporting my public key, add, commit, and push mypubkey.txt. Completed Assignment #2 
+ZCZC W02 1 L26 Decrypting WEEK02.tar.bz2.asc
+ZCZC W02 1 L22 Extracting TARBALL
+ZCZC W02 3 L23 Checking and running scripts. Completed Assignment #5
+ZCZC W02 10 L03 Created myrank.txt, updated myupdate.txt
+ZCZC W02 20 L24 Copying and running myscript.sh
+ZCZC W02 20 L06 GSGS on changing username in VirtualBox Debian
+ZCZC W02 10 L31 Changing username and hostname to match GitHub account
+ZCZC W02 15 L64 Helping a friend on the same issue
+ZCZC W02 15 L06 Rereading vimtutor
+ZCZC W02 30 L31 Updating mylog.txt
+ZCZC W02 15 L43 Reviewing 10 links.md, updating myrank.txt
+ZCZC W02 3 L41 Updating mylog.txt
+ZCZC W02 5 L03 Rerunning myscript.sh, 4 git mantras
+ZCZC W02 2 L41 Updating mylog.txt
+ZCZC W02 2 L23 Rerunning 00-install-to-bin.sh and 01-Version-Check.sh
+ZCZC W02 3 L03 Rerunning myscript.sh, push to GitHub
 ZCZC W03 100 L02 Online lecture on Tuesday, 20th September
-ZCZC W03 20  L31 Creating, formatting, mounting, changing ownership of a new disk
-ZCZC W03 10  L23 Downloading and running WEEK03 scripts
-ZCZC W03 10  L03 Updating myupdate.txt and mylog.txt
-ZCZC W03 20  L43 Peer-review and updating myrank.txt
-ZCZC W03 10  L03 Updating links.md
-ZCZC W03 5   L41 Updating mylog.txt
-ZCZC W03 30  L26 Generate a new public gpg key and output it into my repository
-ZCZC W03 10  L03 Updating my public key in myscript.sh and add, commit, push to GitHub
-ZCZC W03 20  L06 GSGS how to change user's home directory in Debian
-ZCZC W03 20  L31 Changing my home directory
-ZCZC W03 10  L64 Helping a friend to change their home directory and group name
-ZCZC W03 20  L13 Redoing parts of W03 assignments
-ZCZC W03 20  L03 Updating mylog.txt, rerunning myscript.sh, add, commit, push
+ZCZC W03 20 L31 Creating, formatting, mounting, changing ownership of a new disk
+ZCZC W03 10 L23 Downloading and running WEEK03 scripts
+ZCZC W03 10 L03 Updating myupdate.txt and mylog.txt
+ZCZC W03 20 L43 Peer-review and updating myrank.txt
+ZCZC W03 10 L03 Updating links.md
+ZCZC W03 5 L41 Updating mylog.txt
+ZCZC W03 30 L26 Generate a new public gpg key and output it into my repository
+ZCZC W03 10 L03 Updating my public key in myscript.sh and add, commit, push to GitHub
+ZCZC W03 20 L06 GSGS how to change user's home directory in Debian
+ZCZC W03 20 L31 Changing my home directory
+ZCZC W03 10 L64 Helping a friend to change their home directory and group name
+ZCZC W03 20 L13 Redoing parts of W03 assignments
+ZCZC W03 20 L03 Updating mylog.txt, rerunning myscript.sh, add, commit, push
 ZCZC W03 100 L02 Online lecture on Thursday, 22nd September
-ZCZC W03 30  L64 Helping friends to fix their debian Virtual Guest
-ZCZC W03 15  L26 Creating and encrypting mhmmd-attar.txt
-ZCZC W03 5   L01 Posted the content of mhmmd-attar.txt.asc for PopQuizW03
+ZCZC W03 30 L64 Helping friends to fix their debian Virtual Guest
+ZCZC W03 15 L26 Creating and encrypting mhmmd-attar.txt
+ZCZC W03 5 L01 Posted the content of mhmmd-attar.txt.asc for PopQuizW03
 ZCZC W04 100 L02 Online lecture on Tuesday, 27 September
-ZCZC W04 3   L26 Decrypting WEEK04.tar.bz2.asc
-ZCZC W04 2   L22 Extracting WEEK04.tar.bz2
-ZCZC W04 15  L23 Running 00-install-to-bin.sh, 01-Version-Check.sh, and 04-WEEK04.sh
-ZCZC W04 5   L40 Updating myupdate.txt
-ZCZC W04 25  L41 Updating mylog.txt
-ZCZC W04 5   L23 Running myscript.sh for Week04
-ZCZC W04 5   L03 git add, commit, and push
-ZCZC W04 5   L27 Trying to access mhmmd-attar@os1.cs.ui.ac.id
-ZCZC W04 5   L31 Running dpkg-reconfigure dash in root to fix "/bin/sh does not point to bash"
-ZCZC W04 5   L23 Rerunning WEEK04 scripts
-ZCZC W04 10  L41 Updating mylog.txt
-ZCZC W04 5   L23 Rerunning myscript.sh
-ZCZC W04 5   L03 git add, commit, push
-ZCZC W04 20  L05 Preparing and doing the W04 Quiz2
-ZCZC W04 15  L06 GSGS on how to do the Pop Quiz
-ZCZC W04 10  L64 Helping a friend fix the "bin/sh does not point to bash" error
-ZCZC W04 15  L43 Peer-reviewing LINKS and updating myrank.txt
-ZCZC W04 5   L27 Accessing os1.cs.ui.ac.id
-ZCZC W04 5   L01 Posting the result to SCeLE for the second W04 PopQuiz 
-ZCZC W04 15  L06 GSGS on how to create a Makefile
-ZCZC W04 30  L25 Creating the directory, C file, and Makefile for the first W04 PopQuiz
-ZCZC W04 10  L22 Compressing the directory into a tarball
-ZCZC W04 5   L26 Encypting the tarball
-ZCZC W04 15  L21 Testing the encryption, compression, and running make and the created C executable
-ZCZC W04 5   L01 Posting the content of the encypted tarball to SCeLE for the first W04 PopQuiz
-ZCZC W04 10  L41 Updating mylog.txt
-ZCZC W04 20  L64 Helping a friend to do the Pop Quiz
-ZCZC W04 5   L44 Rerunning myscript.sh
-ZCZC W04 5   L03 git add, commit, and push
-ZCZC W04 30  L05 Preparing and doing the W04 Quiz
-ZCZC W04 40  L64 Helping a friend to do the W04 PopQuiz
-ZCZC W04 5   L41 Updating mylog.txt
-ZCZC W04 5   L44 Rerunning myscript.sh
-ZCZC W04 5   L03 add, commit, push to GitHub
+ZCZC W04 3 L26 Decrypting WEEK04.tar.bz2.asc
+ZCZC W04 2 L22 Extracting WEEK04.tar.bz2
+ZCZC W04 15 L23 Running 00-install-to-bin.sh, 01-Version-Check.sh, and 04-WEEK04.sh
+ZCZC W04 5 L40 Updating myupdate.txt
+ZCZC W04 25 L41 Updating mylog.txt
+ZCZC W04 5 L23 Running myscript.sh for Week04
+ZCZC W04 5 L03 git add, commit, and push
+ZCZC W04 5 L27 Trying to access mhmmd-attar@os1.cs.ui.ac.id
+ZCZC W04 5 L31 Running dpkg-reconfigure dash in root to fix "/bin/sh does not point to bash"
+ZCZC W04 5 L23 Rerunning WEEK04 scripts
+ZCZC W04 10 L41 Updating mylog.txt
+ZCZC W04 5 L23 Rerunning myscript.sh
+ZCZC W04 5 L03 git add, commit, push
+ZCZC W04 20 L05 Preparing and doing the W04 Quiz2
+ZCZC W04 15 L06 GSGS on how to do the Pop Quiz
+ZCZC W04 10 L64 Helping a friend fix the "bin/sh does not point to bash" error
+ZCZC W04 15 L43 Peer-reviewing LINKS and updating myrank.txt
+ZCZC W04 5 L27 Accessing os1.cs.ui.ac.id
+ZCZC W04 5 L01 Posting the result to SCeLE for the second W04 PopQuiz 
+ZCZC W04 15 L06 GSGS on how to create a Makefile
+ZCZC W04 30 L25 Creating the directory, C file, and Makefile for the first W04 PopQuiz
+ZCZC W04 10 L22 Compressing the directory into a tarball
+ZCZC W04 5 L26 Encypting the tarball
+ZCZC W04 15 L21 Testing the encryption, compression, and running make and the created C executable
+ZCZC W04 5 L01 Posting the content of the encypted tarball to SCeLE for the first W04 PopQuiz
+ZCZC W04 10 L41 Updating mylog.txt
+ZCZC W04 20 L64 Helping a friend to do the Pop Quiz
+ZCZC W04 5 L44 Rerunning myscript.sh
+ZCZC W04 5 L03 git add, commit, and push
+ZCZC W04 30 L05 Preparing and doing the W04 Quiz
+ZCZC W04 40 L64 Helping a friend to do the W04 PopQuiz
+ZCZC W04 5 L41 Updating mylog.txt
+ZCZC W04 5 L44 Rerunning myscript.sh
+ZCZC W04 5 L03 add, commit, push to GitHub
 ZCZC W05 100 L02 Online lecture on Tuesday, 4th October
-ZCZC W05 30  L31 Trying how low memory is needed to run debian guest
-ZCZC W05 5   L26 Decrypting W05 tarball
-ZCZC W05 5   L22 Extracting the tarball
-ZCZC W05 10  L23 Running 00 and 01 scripts
-ZCZC W05 5   L23 Running 05-WEEK05a.sh
-ZCZC W05 30  L25 Modifying mymemory2.c and testing mymemory2
-ZCZC W05 5   L23 Running 05-WEEK05b.sh
-ZCZC W05 5   L40 Updating myupdate.txt
-ZCZC W05 10  L41 Updating mylog.txt
-ZCZC W05 5   L23 Running myscript.sh
-ZCZC W05 5   L03 git add, commit, push
+ZCZC W05 30 L31 Trying how low memory is needed to run debian guest
+ZCZC W05 5 L26 Decrypting W05 tarball
+ZCZC W05 5 L22 Extracting the tarball
+ZCZC W05 10 L23 Running 00 and 01 scripts
+ZCZC W05 5 L23 Running 05-WEEK05a.sh
+ZCZC W05 30 L25 Modifying mymemory2.c and testing mymemory2
+ZCZC W05 5 L23 Running 05-WEEK05b.sh
+ZCZC W05 5 L40 Updating myupdate.txt
+ZCZC W05 10 L41 Updating mylog.txt
+ZCZC W05 5 L23 Running myscript.sh
+ZCZC W05 5 L03 git add, commit, push
+ZCZC W05 100 L02 Online lecture on Thursday, 6th October
+ZCZC W05 15 L31 Trying even lower memory to run virtual debian guest
