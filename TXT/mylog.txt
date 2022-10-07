@@ -1,4 +1,4 @@
-# Log Format
+ Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
@@ -114,5 +114,11 @@ ZCZC W05 5 L40 Updating myupdate.txt
 ZCZC W05 10 L41 Updating mylog.txt
 ZCZC W05 5 L23 Running myscript.sh
 ZCZC W05 5 L03 git add, commit, push
+ZCZC W05 20 L05 Preparing and doing Quiz02
+ZCZC W05 10 L23 Trying to solve the quiz problem after the quiz
 ZCZC W05 100 L02 Online lecture on Thursday, 6th October
 ZCZC W05 15 L31 Trying even lower memory to run virtual debian guest
+ZCZC W05 5 L03 Posting the result for PopQuiz
+ZCZC W05 15 L27 Accessing os1.cs.ui.ac.id to do the PopQuiz
+ZCZC W05 20 L43 Peer-reviewing LINKS and updating myrank.txt
+ZCZC W05 20 L05 Preparing and doing the Quiz
