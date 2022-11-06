@@ -122,3 +122,25 @@ ZCZC W05 5 L03 Posting the result for PopQuiz
 ZCZC W05 15 L27 Accessing os1.cs.ui.ac.id to do the PopQuiz
 ZCZC W05 20 L43 Peer-reviewing LINKS and updating myrank.txt
 ZCZC W05 20 L05 Preparing and doing the Quiz
+ZCZC W06 60 L63 Trying to fix my laptop (can't start up Windows)
+ZCZC W06 30 L63 Had my laptop brought to STC to be fixed, laptop reset completely
+ZCZC W06 20 L31 Downloading and installing VirtualBox; Importing my VM backup
+ZCZC W06 20 L27 Downloading and installing PuTTY; Setting up PuTTY session for OS VM
+ZCZC W06 20 L03 Cloning my repository into the VM since it was corrupted
+ZCZC W06 60 L02 Online lecture on Tuesday, 1st October
+ZCZC W06 30 L16 Doing assignments #2 and #3 of W06
+ZCZC W06 10 L40 Updating myupdate.txt
+ZCZC W06 20 L41 Updating mylog.txt
+ZCZC W06 40 L43 Reviewing LINKS and updating myrank.txt
+ZCZC W06 20 L05 Preparing for and doing Quiz02
+ZCZC W06 100 L02 Lecture on Thursday, 3rd Oct
+ZCZC W06 60 L05 Studying for Quiz1
+ZCZC W06 15 L05 Preparing to do Quiz1
+ZCZC W06 10 L27 PopQuiz 1
+ZCZC W06 15 L25 Creating c file and Makefile for PopQuiz2
+ZCZC W06 5 L22 Compressing the folder
+ZCZC W06 5 L26 Encrypting the compressed tarball
+ZCZC W06 25 L27 Copying the encrypted tarball into os1
+ZCZC W06 40 L64 Explaining to my friends about the quiz and popquizzes
+ZCZC W06 10 L41 Updating mylog.txt
+ZCZC W06 10 Rerun myscript.sh and push to GitHub
