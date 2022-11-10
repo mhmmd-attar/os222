@@ -1,4 +1,4 @@
- Log Format
+Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
@@ -143,4 +143,10 @@ ZCZC W06 5 L26 Encrypting the compressed tarball
 ZCZC W06 25 L27 Copying the encrypted tarball into os1
 ZCZC W06 40 L64 Explaining to my friends about the quiz and popquizzes
 ZCZC W06 10 L41 Updating mylog.txt
-ZCZC W06 10 Rerun myscript.sh and push to GitHub
+ZCZC W06 10 L03 Rerun myscript.sh and push to GitHub
+ZCZC W07 100 L02 Online lecture on Tuesday
+ZCZC W07 20 L07 Pulling os repository; copying the Demos into mydemo; running 98-DEMO-CHECK.sh
+ZCZC W07 5 L31 Making sure my kernel is up-to-date
+ZCZC W07 30 L17 Doing Week07 assignments
+ZCZC W07 95 L02 Lecture in class on Thursday
+ZCZC W07 15 L17 Week07 assignment
