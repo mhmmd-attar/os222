@@ -150,3 +150,9 @@ ZCZC W07 5 L31 Making sure my kernel is up-to-date
 ZCZC W07 30 L17 Doing Week07 assignments
 ZCZC W07 95 L02 Lecture in class on Thursday
 ZCZC W07 15 L17 Week07 assignment
+ZCZC W07 20 L05 Preparing and doing Quiz2
+ZCZC W07 20 L22 Adding bash_profile and aliases in os1
+ZCZC W07 40 L05 Preparing to do Quiz1
+ZCZC W07 5 L05 Quiz1
+ZCZC W07 15 L41 Updating mylog.txt
+ZCZC W07 40 L43 Reviewing LINKS and updating myrank.txt
