@@ -156,3 +156,5 @@ ZCZC W07 40 L05 Preparing to do Quiz1
 ZCZC W07 5 L05 Quiz1
 ZCZC W07 15 L41 Updating mylog.txt
 ZCZC W07 40 L43 Reviewing LINKS and updating myrank.txt
+ZCZC W08 100 L02 Online lecture on Tuesday
+ZCZC W08 30 L03 Reconfiguring git and my repository in my debian guest
