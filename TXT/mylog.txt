@@ -158,3 +158,7 @@ ZCZC W07 15 L41 Updating mylog.txt
 ZCZC W07 40 L43 Reviewing LINKS and updating myrank.txt
 ZCZC W08 100 L02 Online lecture on Tuesday
 ZCZC W08 30 L03 Reconfiguring git and my repository in my debian guest
+ZCZC W08 100 L02 Lecture on Thursday
+ZCZC W08 10 L27 POPQUIZ2 OS1-CHECK.sh
+ZCZC W08 30 L09 POPQUIZ1 TARBALL
+ZCZC W08 210 L18 Linux From Scratch Ch 1-5
