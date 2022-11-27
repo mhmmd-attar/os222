@@ -165,3 +165,11 @@ ZCZC W08 210 L18 Linux From Scratch Ch 1-5
 ZCZC W08 30 L43 Reviewing LINKS (upto 7th) and updating myrank.txt
 ZCZC W08 5 L40 Updating myupdate.txt
 ZCZC W08 15 L41 Updating mylog.txt
+ZCZC W09 100 L02 Online lecture on Tuesday
+ZCZC W09 5 L40 Updating myupdate.txt
+ZCZC W09 15 L31 Backing up my VM before continuing LFS
+ZCZC W09 200 L19 Linux From Scratch Ch 6-7
+ZCZC W09 30 L43 Reviewing LINKS (17th) and updating myrank.txt
+ZCZC W09 15 L41 Updating mylog.txt
+ZCZC W09 5 L44 Running myscript.sh
+ZCZC W09 10 L03 add, commit, push
