@@ -173,3 +173,12 @@ ZCZC W09 30 L43 Reviewing LINKS (17th) and updating myrank.txt
 ZCZC W09 15 L41 Updating mylog.txt
 ZCZC W09 5 L44 Running myscript.sh
 ZCZC W09 10 L03 add, commit, push
+ZCZC W10 100 L02 Online lecture on Tuesday
+ZCZC W10 100 L02 Lecture on Thursday
+ZCZC W10 15 L05 Quiz2
+ZCZC W10 30 L05 Studying for/doing Quiz1
+ZCZC W10 180 L20 starting LFS Ch8, found some error
+ZCZC W10 5 L40 Updating myupdate.txt
+ZCZC W10 30 L43 Reviewing LINKS and updating myrank.txt
+ZCZC W10 15 L41 Updating mylog.txt
+ZCZC W10 5 L03 git add, commit, push
